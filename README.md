@@ -49,3 +49,8 @@
 
 - [Opensuse Leap](https://download.opensuse.org/distribution/leap/15.4/iso/openSUSE-Leap-15.4-DVD-x86_64-Media.iso)
 - [Opensuse Tumbleweed](https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso)
+
+## Endeavouros
+
+- [Endeavouros](https://github.com/endeavouros-team/ISO/releases/download/1-EndeavourOS-ISO-releases-archive/EndeavourOS_Artemis_nova_22_9.iso)
+- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Artemis_nova_22_9.iso)
