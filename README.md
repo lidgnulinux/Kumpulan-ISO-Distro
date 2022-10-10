@@ -20,6 +20,13 @@
 - [Archlinux](https://geo.mirror.pkgbuild.com/iso/2022.10.01/archlinux-2022.10.01-x86_64.iso)
 
 
+## Artix Linux
+
+- [Artix Linux XFCE OpenRC](https://download.artixlinux.org/iso/artix-xfce-openrc-20220713-x86_64.iso)
+- [Artix Linux LXQT OpenRC](https://download.artixlinux.org/iso/artix-lxqt-openrc-20220713-x86_64.iso)
+- [Artix Linux KDE Plasma OpenRC](https://download.artixlinux.org/iso/artix-plasma-openrc-20220713-x86_64.iso)
+
+
 ## Fedora
 
 - [Fedora](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-36-1.5.iso)
