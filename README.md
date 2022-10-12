@@ -49,12 +49,6 @@
 
 - [Alpine Linux](https://dl-cdn.alpinelinux.org/alpine/v3.16/releases/x86_64/alpine-standard-3.16.2-x86_64.iso)
 
-## Mint
-
-- [Mint XFCE](https://mirrors.layeronline.com/linuxmint/stable/21/linuxmint-21-xfce-64bit.iso)
-- [Mint Mate](https://mirrors.layeronline.com/linuxmint/stable/21/linuxmint-21-mate-64bit.iso)
-- [Mint Cinnamon](https://mirrors.layeronline.com/linuxmint/stable/21/linuxmint-21-cinnamon-64bit.iso)
-
 ## Opensuse
 
 - [Opensuse Leap](https://download.opensuse.org/distribution/leap/15.4/iso/openSUSE-Leap-15.4-DVD-x86_64-Media.iso)
