@@ -34,6 +34,12 @@
 - [Artix Linux LXQT OpenRC](https://download.artixlinux.org/iso/artix-lxqt-openrc-20220713-x86_64.iso)
 - [Artix Linux KDE Plasma OpenRC](https://download.artixlinux.org/iso/artix-plasma-openrc-20220713-x86_64.iso)
 
+## Manjaro Linux
+
+- [Manjaro Gnome [Minimal]](https://download.manjaro.org/gnome/21.3.7/manjaro-gnome-21.3.7-minimal-220816-linux515.iso)
+- [Manjaro KDE Plasma [Minimal]](https://download.manjaro.org/kde/21.3.7/manjaro-kde-21.3.7-minimal-220816-linux515.iso)
+- [Manjaro XFCE [Minimal]](https://download.manjaro.org/xfce/21.3.7/manjaro-xfce-21.3.7-minimal-220816-linux515.iso)
+
 ## Fedora
 
 - [Fedora](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-36-1.5.iso)
