@@ -41,7 +41,7 @@
 - [Fedora server netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Server/x86_64/iso/Fedora-Server-netinst-x86_64-36-1.5.iso)
 - [Fedora 37](https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-37-1.7.iso)
 - [Fedora 37 server standard](https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Server/x86_64/iso/Fedora-Server-dvd-x86_64-37-1.7.iso)
-- [Fedora 37 server netinstall]https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Server/x86_64/iso/Fedora-Server-netinst-x86_64-37-1.7.iso)
+- [Fedora 37 server netinstall](https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Server/x86_64/iso/Fedora-Server-netinst-x86_64-37-1.7.iso)
 
 ## Void
 
