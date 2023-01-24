@@ -39,6 +39,9 @@
 - [Fedora](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-36-1.5.iso)
 - [Fedora server standard](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Server/x86_64/iso/Fedora-Server-dvd-x86_64-36-1.5.iso)
 - [Fedora server netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Server/x86_64/iso/Fedora-Server-netinst-x86_64-36-1.5.iso)
+- [Fedora 37](https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-37-1.7.iso)
+- [Fedora 37 server standard](https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Server/x86_64/iso/Fedora-Server-dvd-x86_64-37-1.7.iso)
+- [Fedora 37 server netinstall]https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Server/x86_64/iso/Fedora-Server-netinst-x86_64-37-1.7.iso)
 
 ## Void
 
@@ -47,8 +50,8 @@
 
 ## Alpine
 
-- [Alpine Linux](https://dl-cdn.alpinelinux.org/alpine/v3.16/releases/x86_64/alpine-standard-3.16.2-x86_64.iso)
-
+- [Alpine Linux 3.16](https://dl-cdn.alpinelinux.org/alpine/v3.16/releases/x86_64/alpine-standard-3.16.2-x86_64.iso)
+- [Alpine Linux 3.17](https://dl-cdn.alpinelinux.org/alpine/v3.17/releases/x86_64/alpine-standard-3.17.1-x86_64.iso)
 ## Opensuse
 
 - [Opensuse Leap](https://download.opensuse.org/distribution/leap/15.4/iso/openSUSE-Leap-15.4-DVD-x86_64-Media.iso)
