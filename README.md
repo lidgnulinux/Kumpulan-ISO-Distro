@@ -26,7 +26,7 @@
 
 ## Archlinux
 
-- [Archlinux](https://geo.mirror.pkgbuild.com/iso/2023.01.01/archlinux-x86_64.iso)
+- [Archlinux](https://geo.mirror.pkgbuild.com/iso)
 
 ## Artix Linux
 
