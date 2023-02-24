@@ -8,19 +8,20 @@
 
 ## Ubuntu dan Flavour-nya
 
-- [Ubuntu](https://releases.ubuntu.com/22.04.1/ubuntu-22.04.1-desktop-amd64.iso)
-- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/22.04.1/release/kubuntu-22.04.1-desktop-amd64.iso)
-- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/22.04.1/release/lubuntu-22.04.1-desktop-amd64.iso)
-- [Xubuntu](http://mirror.aarnet.edu.au/pub/xubuntu/releases/22.04/release/xubuntu-22.04.1-desktop-amd64.iso)
-- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04/release/ubuntu-mate-22.04.1-desktop-amd64.iso)
-- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/22.04.1/release/ubuntu-budgie-22.04.1-desktop-amd64.iso)
+- [Ubuntu](https://releases.ubuntu.com/jammy/ubuntu-22.04.2-desktop-amd64.iso)
+- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/22.04.2/release/kubuntu-22.04.2-desktop-amd64.iso)
+- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/22.04.2/release/lubuntu-22.04.2-desktop-amd64.iso)
+- [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/22.04.2/release/xubuntu-22.04.2-desktop-amd64.iso)
+- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04.2/release/ubuntu-mate-22.04.2-desktop-amd64.iso)
+- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/22.04.2/release/ubuntu-budgie-22.04.2-desktop-amd64.iso)
 - [Ubuntu DDE](https://bit.ly/ubuntudde-22-04-fosshost)
+- [Ubuntu Unity](https://sourceforge.net/projects/ubuntu-unity/files/22.04.1/ubuntu-unity-22.04.1.iso/download)
 
 ## Turunan Ubuntu
 
-- [Linux Mint Cinnamon](https://mirrors.layeronline.com/linuxmint/stable/21/linuxmint-21-cinnamon-64bit.iso)
-- [Linux Mint XFCE](https://mirrors.layeronline.com/linuxmint/stable/21/linuxmint-21-xfce-64bit.iso)
-- [Linux Mint Mate](https://mirrors.layeronline.com/linuxmint/stable/21/linuxmint-21-mate-64bit.iso)
+- [Linux Mint Cinnamon](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-cinnamon-64bit.iso)
+- [Linux Mint XFCE](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-xfce-64bit.iso)
+- [Linux Mint Mate](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-mate-64bit.iso)
 - [Pop! OS ](https://iso.pop-os.org/22.04/amd64/intel/14/pop-os_22.04_amd64_intel_14.iso)
 - [Pop! OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/14/pop-os_22.04_amd64_nvidia_14.iso)
 
@@ -60,5 +61,5 @@
 
 ## Endeavouros
 
-- [Endeavouros](https://github.com/endeavouros-team/ISO/releases/download/1-EndeavourOS-ISO-releases-archive/EndeavourOS_Artemis_nova_22_9.iso)
-- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Artemis_nova_22_9.iso)
+- [Endeavouros](https://github.com/endeavouros-team/ISO/releases/download/1-EndeavourOS-ISO-releases-archive/EndeavourOS_Cassini_neo_22_12.iso)
+- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Cassini_neo_22_12.iso)
