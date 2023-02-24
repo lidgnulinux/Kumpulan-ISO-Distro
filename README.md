@@ -19,11 +19,17 @@
 
 ## Turunan Ubuntu
 
+- [Elementary OS](https://sgp1.dl.elementary.io/download/MTY3NzI0NjQ2NA==/elementaryos-7.0-stable.20230129rc.iso)
 - [Linux Mint Cinnamon](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-cinnamon-64bit.iso)
 - [Linux Mint XFCE](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-xfce-64bit.iso)
 - [Linux Mint Mate](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-mate-64bit.iso)
+- [Linux Lite](https://osdn.net/dl/linuxlite/linux-lite-6.2-64bit.iso)
+- [LXLE (64 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download)
+- [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
 - [Pop! OS ](https://iso.pop-os.org/22.04/amd64/intel/14/pop-os_22.04_amd64_intel_14.iso)
 - [Pop! OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/14/pop-os_22.04_amd64_nvidia_14.iso)
+- [Zorin OS Core](https://zorin.com/os/download/16/core)
+- [Zorin OS Lite](https://zorin.com/os/download/16/lite)
 
 ## Archlinux
 
@@ -31,9 +37,9 @@
 
 ## Artix Linux
 
-- [Artix Linux XFCE OpenRC](https://download.artixlinux.org/iso/artix-xfce-openrc-20220713-x86_64.iso)
-- [Artix Linux LXQT OpenRC](https://download.artixlinux.org/iso/artix-lxqt-openrc-20220713-x86_64.iso)
-- [Artix Linux KDE Plasma OpenRC](https://download.artixlinux.org/iso/artix-plasma-openrc-20220713-x86_64.iso)
+- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230215-x86_64.iso)
+- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230215-x86_64.iso)
+- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230215-x86_64.iso)
 
 ## Fedora
 
