@@ -15,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: change file modifier to executable
+    - name: change file to executable
       run: chmod +x check-link.sh
 
     - name: run script check-link.sh
