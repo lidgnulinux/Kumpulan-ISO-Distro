@@ -1,0 +1,22 @@
+name: link check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "master" ]
+  schedule:
+    # 00:00AM UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: change file modifier to executable
+      run: chmod +x check-link.sh
+
+    - name: run script check-link.sh
+      run: ./check-link.sh
