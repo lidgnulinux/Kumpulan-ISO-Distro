@@ -72,5 +72,5 @@
 
 ## Endeavouros
 
-- [Endeavouros](https://github.com/endeavouros-team/ISO/releases/download/1-EndeavourOS-ISO-releases-archive/EndeavourOS_Cassini_neo_22_12.iso)
-- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Cassini_neo_22_12.iso)
+- [Endeavouros](https://github.com/endeavouros-team/ISO/releases/download/1-EndeavourOS-ISO-releases-archive/EndeavourOS_Cassini_Nova-03-2023.iso)
+- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Cassini_Nova-03-2023.iso)
