@@ -16,6 +16,7 @@
 - [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/22.04.2/release/ubuntu-budgie-22.04.2-desktop-amd64.iso)
 - [Ubuntu DDE](https://bit.ly/ubuntudde-22-04-fosshost)
 - [Ubuntu Unity](https://sourceforge.net/projects/ubuntu-unity/files/22.04.1/ubuntu-unity-22.04.1.iso/download)
+- [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/22.04.2/release/ubuntustudio-22.04.2-dvd-amd64.iso)
 
 ## Turunan Ubuntu
 
@@ -38,9 +39,9 @@
 
 ## Artix Linux
 
-- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230215-x86_64.iso)
-- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230215-x86_64.iso)
-- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230215-x86_64.iso)
+- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230306-x86_64.iso)
+- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230306-x86_64.iso)
+- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230306-x86_64.iso)
 
 ## Fedora
 
