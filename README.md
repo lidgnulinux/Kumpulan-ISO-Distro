@@ -24,7 +24,7 @@
 - [Linux Mint Cinnamon](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-cinnamon-64bit.iso)
 - [Linux Mint XFCE](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-xfce-64bit.iso)
 - [Linux Mint Mate](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-mate-64bit.iso)
-- [Linux Lite](https://osdn.net/dl/linuxlite/linux-lite-6.2-64bit.iso)
+- [Linux Lite](https://osdn.net/dl/linuxlite/linux-lite-6.4-64bit.iso)
 - [LXLE (64 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download)
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
 - [Pop! OS ](https://iso.pop-os.org/22.04/amd64/intel/14/pop-os_22.04_amd64_intel_14.iso)
@@ -73,5 +73,5 @@
 
 ## Endeavouros
 
-- [Endeavouros](https://github.com/endeavouros-team/ISO/releases/download/1-EndeavourOS-ISO-releases-archive/EndeavourOS_Cassini_Nova-03-2023.iso)
-- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Cassini_Nova-03-2023.iso)
+- [Endeavouros](https://github.com/endeavouros-team/ISO/releases/download/1-EndeavourOS-ISO-releases-archive/EndeavourOS_Cassini_Nova-03-2023_R1.iso)
+- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Cassini_Nova-03-2023_R1.iso)
