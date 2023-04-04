@@ -39,9 +39,9 @@
 
 ## Artix Linux
 
-- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230306-x86_64.iso)
-- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230306-x86_64.iso)
-- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230306-x86_64.iso)
+- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230401-x86_64.iso)
+- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230401-x86_64.iso)
+- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230401-x86_64.iso)
 
 ## Fedora
 
