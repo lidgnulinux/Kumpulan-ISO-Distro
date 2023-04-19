@@ -45,14 +45,15 @@
 
 ## Fedora
 
-- [Fedora 36](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-36-1.5.iso)
-- [Fedora 36 server standard](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Server/x86_64/iso/Fedora-Server-dvd-x86_64-36-1.5.iso)
-- [Fedora 36 server netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Server/x86_64/iso/Fedora-Server-netinst-x86_64-36-1.5.iso)
 - [Fedora 37](https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-37-1.7.iso)
 - [Fedora 37 server standard](https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Server/x86_64/iso/Fedora-Server-dvd-x86_64-37-1.7.iso)
 - [Fedora 37 server netinstall](https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/37/Server/x86_64/iso/Fedora-Server-netinst-x86_64-37-1.7.iso)
+- [Fedora 38](https://download.fedoraproject.org/pub/fedora/linux/releases/38/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-38-1.6.iso)
+- [Fedora 38 server standard](https://download.fedoraproject.org/pub/fedora/linux/releases/38/Server/x86_64/iso/Fedora-Server-dvd-x86_64-38-1.6.iso)
+- [Fedora 38 server netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/38/Server/x86_64/iso/Fedora-Server-netinst-x86_64-38-1.6.iso)
 - [Fedora Silverblue](https://download.fedoraproject.org/pub/fedora/linux/releases/37/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-37-1.7.iso)
-- [Fedora Kinoite](https://download.fedoraproject.org/pub/fedora/linux/releases/37/Kinoite/x86_64/iso/Fedora-Kinoite-ostree-x86_64-37-1.7.iso)
+- [Fedora Kinoite](https://download.fedoraproject.org/pub/fedora/linux/releases/38/Kinoite/x86_64/iso/Fedora-Kinoite-ostree-x86_64-38-1.6.iso)
+- [Fedora Sericea](https://download.fedoraproject.org/pub/fedora/linux/releases/38/Sericea/x86_64/iso/Fedora-Sericea-ostree-x86_64-38-1.6.iso)
 
 ## Void
 
