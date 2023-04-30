@@ -2,9 +2,9 @@
 
 ## Debian
 
-- [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-11.6.0-amd64-DVD-1.iso)
-- [Debian netinstall](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-11.6.0-amd64-netinst.iso)
-- [Debian non-free netinstall](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/firmware-11.6.0-amd64-netinst.iso)
+- [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-11.7.0-amd64-DVD-1.iso)
+- [Debian netinstall](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-11.7.0-amd64-netinst.iso)
+- [Debian non-free netinstall](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/firmware-11.7.0-amd64-netinst.iso)
 
 ## Ubuntu dan Flavour-nya
 
