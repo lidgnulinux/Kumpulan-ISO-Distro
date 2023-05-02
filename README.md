@@ -39,9 +39,9 @@
 
 ## Artix Linux
 
-- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230401-x86_64.iso)
-- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230401-x86_64.iso)
-- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230401-x86_64.iso)
+- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230501-x86_64.iso)
+- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230501-x86_64.iso)
+- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230501-x86_64.iso)
 
 ## Fedora
 
@@ -63,7 +63,7 @@
 ## Alpine
 
 - [Alpine Linux 3.16](https://dl-cdn.alpinelinux.org/alpine/v3.16/releases/x86_64/alpine-standard-3.16.2-x86_64.iso)
-- [Alpine Linux 3.17](https://dl-cdn.alpinelinux.org/alpine/v3.17/releases/x86_64/alpine-standard-3.17.1-x86_64.iso)
+- [Alpine Linux 3.17](https://dl-cdn.alpinelinux.org/alpine/v3.17/releases/x86_64/alpine-standard-3.17.3-x86_64.iso)
 
 ## Opensuse
 
