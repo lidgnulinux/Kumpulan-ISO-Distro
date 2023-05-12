@@ -62,8 +62,8 @@
 
 ## Alpine
 
-- [Alpine Linux 3.16](https://dl-cdn.alpinelinux.org/alpine/v3.16/releases/x86_64/alpine-standard-3.16.2-x86_64.iso)
 - [Alpine Linux 3.17](https://dl-cdn.alpinelinux.org/alpine/v3.17/releases/x86_64/alpine-standard-3.17.3-x86_64.iso)
+- [Alpine Linux 3.18](https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-standard-3.18.0-x86_64.iso)
 
 ## Opensuse
 
