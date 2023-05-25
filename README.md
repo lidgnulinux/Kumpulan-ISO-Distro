@@ -27,9 +27,9 @@
 - [Linux Lite](https://osdn.net/dl/linuxlite/linux-lite-6.4-64bit.iso)
 - [LXLE (64 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download)
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
-- [Pop! OS ](https://iso.pop-os.org/22.04/amd64/intel/14/pop-os_22.04_amd64_intel_14.iso)
-- [Pop! OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/14/pop-os_22.04_amd64_nvidia_14.iso)
-- [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202304270551.iso)
+- [Pop! OS ](https://iso.pop-os.org/22.04/amd64/intel/29/pop-os_22.04_amd64_intel_29.iso)
+- [Pop! OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/29/pop-os_22.04_amd64_nvidia_29.iso)
+- [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202305241458.iso)
 - [Zorin OS Core](https://zorin.com/os/download/16/core)
 - [Zorin OS Lite](https://zorin.com/os/download/16/lite)
 
