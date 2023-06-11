@@ -2,9 +2,8 @@
 
 ## Debian
 
-- [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-11.7.0-amd64-DVD-1.iso)
-- [Debian netinstall](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-11.7.0-amd64-netinst.iso)
-- [Debian non-free netinstall](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/firmware-11.7.0-amd64-netinst.iso)
+- [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.0.0-amd64-DVD-1.iso)
+- [Debian netinstall](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.0.0-amd64-netinst.iso)
 
 ## Ubuntu dan Flavour-nya
 
@@ -39,9 +38,9 @@
 
 ## Artix Linux
 
-- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230501-x86_64.iso)
-- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230501-x86_64.iso)
-- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230501-x86_64.iso)
+- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230605-x86_64.iso)
+- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230605-x86_64.iso)
+- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230605-x86_64.iso)
 
 ## Fedora
 
