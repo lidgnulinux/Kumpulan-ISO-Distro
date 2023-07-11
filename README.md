@@ -38,9 +38,9 @@
 
 ## Artix Linux
 
-- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230605-x86_64.iso)
-- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230605-x86_64.iso)
-- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230605-x86_64.iso)
+- [Artix Linux XFCE OpenRC](https://iso.artixlinux.org/iso/artix-xfce-openrc-20230710-x86_64.iso)
+- [Artix Linux LXQT OpenRC](https://iso.artixlinux.org/iso/artix-lxqt-openrc-20230710-x86_64.iso)
+- [Artix Linux KDE Plasma OpenRC](https://iso.artixlinux.org/iso/artix-plasma-openrc-20230710-x86_64.iso)
 
 ## Fedora
 
@@ -56,12 +56,12 @@
 
 ## Void
 
-- [Void Linux Base](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20221001-base.iso)
-- [Void Live Xfce](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20221001-xfce.iso)
+- [Void Linux Base](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20230628-base.iso)
+- [Void Live Xfce](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20230628-xfce.iso)
 
 ## Alpine
 
-- [Alpine Linux 3.17](https://dl-cdn.alpinelinux.org/alpine/v3.17/releases/x86_64/alpine-standard-3.17.3-x86_64.iso)
+- [Alpine Linux 3.17](https://dl-cdn.alpinelinux.org/alpine/v3.17/releases/x86_64/alpine-standard-3.17.4-x86_64.iso)
 - [Alpine Linux 3.18](https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-standard-3.18.2-x86_64.iso)
 
 ## Opensuse
