@@ -20,9 +20,9 @@
 ## Turunan Ubuntu
 
 - [Elementary OS](https://sgp1.dl.elementary.io/download/MTY3NzI0NjQ2NA==/elementaryos-7.0-stable.20230129rc.iso)
-- [Linux Mint Cinnamon](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-cinnamon-64bit.iso)
-- [Linux Mint XFCE](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-xfce-64bit.iso)
-- [Linux Mint Mate](https://mirrors.layeronline.com/linuxmint/stable/21.1/linuxmint-21.1-mate-64bit.iso)
+- [Linux Mint Cinnamon](https://mirrors.layeronline.com/linuxmint/stable/21.2/linuxmint-21.2-cinnamon-64bit.iso)
+- [Linux Mint XFCE](https://mirrors.ocf.berkeley.edu/linux-mint/stable/21.2/linuxmint-21.2-xfce-64bit.iso)
+- [Linux Mint Mate](https://mirrors.xmission.com/linuxmint/iso/stable/21.2/linuxmint-21.2-mate-64bit.iso)
 - [Linux Lite](https://osdn.net/dl/linuxlite/linux-lite-6.4-64bit.iso)
 - [LXLE (64 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download)
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
