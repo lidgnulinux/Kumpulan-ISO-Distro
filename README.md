@@ -7,15 +7,16 @@
 
 ## Ubuntu dan Flavour-nya
 
-- [Ubuntu](https://releases.ubuntu.com/jammy/ubuntu-22.04.2-desktop-amd64.iso)
-- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/22.04.2/release/kubuntu-22.04.2-desktop-amd64.iso)
-- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/22.04.2/release/lubuntu-22.04.2-desktop-amd64.iso)
-- [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/22.04.2/release/xubuntu-22.04.2-desktop-amd64.iso)
-- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04.2/release/ubuntu-mate-22.04.2-desktop-amd64.iso)
-- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/22.04.2/release/ubuntu-budgie-22.04.2-desktop-amd64.iso)
+- [Ubuntu](https://releases.ubuntu.com/jammy/ubuntu-22.04.3-desktop-amd64.iso)
+- [Ubuntu Server](https://releases.ubuntu.com/jammy/ubuntu-22.04.3-live-server-amd64.iso)
+- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/22.04.3/release/kubuntu-22.04.3-desktop-amd64.iso)
+- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/22.04.3/release/lubuntu-22.04.3-desktop-amd64.iso)
+- [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/22.04.3/release/xubuntu-22.04.3-desktop-amd64.iso)
+- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04.3/release/ubuntu-mate-22.04.3-desktop-amd64.iso)
+- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/22.04.3/release/ubuntu-budgie-22.04.3-desktop-amd64.iso)
 - [Ubuntu DDE](http://bit.ly/fosshost-20-04-1)
 - [Ubuntu Unity](https://sourceforge.net/projects/ubuntu-unity/files/22.04.1/ubuntu-unity-22.04.1.iso/download)
-- [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/22.04.2/release/ubuntustudio-22.04.2-dvd-amd64.iso)
+- [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/22.04.3/release/ubuntustudio-22.04.3-dvd-amd64.iso)
 
 ## Turunan Ubuntu
 
