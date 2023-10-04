@@ -20,7 +20,7 @@
 
 ## Turunan Ubuntu
 
-- [Elementary OS](https://sgp1.dl.elementary.io/download/MTY3NzI0NjQ2NA==/elementaryos-7.0-stable.20230129rc.iso)
+- [Elementary OS](https://nyc3.dl.elementary.io/download/MTY5NjQyMDc4OQ==/elementaryos-7.1-stable.20230926rc.iso)
 - [Linux Mint Cinnamon](https://mirrors.layeronline.com/linuxmint/stable/21.2/linuxmint-21.2-cinnamon-64bit.iso)
 - [Linux Mint XFCE](https://mirrors.ocf.berkeley.edu/linux-mint/stable/21.2/linuxmint-21.2-xfce-64bit.iso)
 - [Linux Mint Mate](https://mirrors.xmission.com/linuxmint/iso/stable/21.2/linuxmint-21.2-mate-64bit.iso)
