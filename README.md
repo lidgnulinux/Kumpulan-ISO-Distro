@@ -2,8 +2,8 @@
 
 ## Debian
 
-- [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.1.0-amd64-DVD-1.iso)
-- [Debian netinstall](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-netinst.iso)
+- [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.2.0-amd64-DVD-1.iso)
+- [Debian netinstall](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.2.0-amd64-netinst.iso)
 
 ## Ubuntu dan Flavour-nya
 
@@ -27,9 +27,9 @@
 - [Linux Lite](https://mirror.freedif.org/LinuxLiteOS/isos/6.6/linux-lite-6.6-64bit.iso)
 - [LXLE (64 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download)
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
-- [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/34/pop-os_22.04_amd64_intel_34.iso)
-- [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/34/pop-os_22.04_amd64_nvidia_34.iso)
-- [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202309251410.iso)
+- [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/35/pop-os_22.04_amd64_intel_35.iso)
+- [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/35/pop-os_22.04_amd64_nvidia_35.iso)
+- [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202310060620.iso)
 - [Zorin OS Core](https://zorin.com/os/download/16/core)
 - [Zorin OS Lite](https://zorin.com/os/download/16/lite)
 
