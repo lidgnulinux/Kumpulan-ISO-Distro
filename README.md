@@ -29,7 +29,7 @@
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
 - [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/35/pop-os_22.04_amd64_intel_35.iso)
 - [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/35/pop-os_22.04_amd64_nvidia_35.iso)
-- [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202310251421.iso)
+- [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202311061737.iso)
 - [Zorin OS Core](https://zorin.com/os/download/16/core)
 - [Zorin OS Lite](https://zorin.com/os/download/16/lite)
 
