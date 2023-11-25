@@ -27,8 +27,8 @@
 - [Linux Lite](https://pinguin.dinus.ac.id/iso/lite/isos/6.6/linux-lite-6.6-64bit.iso)
 - [LXLE (64 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download)
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
-- [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/35/pop-os_22.04_amd64_intel_35.iso)
-- [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/35/pop-os_22.04_amd64_nvidia_35.iso)
+- [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/36/pop-os_22.04_amd64_intel_36.iso)
+- [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/36/pop-os_22.04_amd64_nvidia_36.iso)
 - [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202311061737.iso)
 - [Zorin OS Core](https://zorin.com/os/download/16/core)
 - [Zorin OS Lite](https://zorin.com/os/download/16/lite)
@@ -75,5 +75,5 @@
 
 ## Endeavouros
 
-- [Endeavouros](https://github.com/endeavouros-team/ISO/releases/download/1-EndeavourOS-ISO-releases-archive/Endeavouros_Cassini_Nova-03-2023_R3.iso)
-- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/Endeavouros_Cassini_Nova-03-2023_R3.iso)
+- [Endeavouros](https://mirror.jingk.ai/endeavouros/iso/Endeavouros-Galileo-11-2023.iso)
+- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/Endeavouros-Galileo-11-2023.iso)
