@@ -30,7 +30,7 @@
 - [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/36/pop-os_22.04_amd64_intel_36.iso)
 - [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/36/pop-os_22.04_amd64_nvidia_36.iso)
 - [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202312061230.iso)
-- [Zorin OS Core](https://zorin.com/os/download/16/core)
+- [Zorin OS Core](https://zorin.com/os/download/17/core)
 - [Zorin OS Lite](https://zorin.com/os/download/16/lite)
 
 ## Archlinux
