@@ -7,16 +7,16 @@
 
 ## Ubuntu dan Flavour-nya
 
-- [Ubuntu](https://releases.ubuntu.com/jammy/ubuntu-22.04.3-desktop-amd64.iso)
-- [Ubuntu Server](https://releases.ubuntu.com/jammy/ubuntu-22.04.3-live-server-amd64.iso)
-- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/22.04.3/release/kubuntu-22.04.3-desktop-amd64.iso)
-- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/22.04.3/release/lubuntu-22.04.3-desktop-amd64.iso)
-- [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/22.04.3/release/xubuntu-22.04.3-desktop-amd64.iso)
-- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04.3/release/ubuntu-mate-22.04.3-desktop-amd64.iso)
-- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/22.04.3/release/ubuntu-budgie-22.04.3-desktop-amd64.iso)
+- [Ubuntu](https://releases.ubuntu.com/jammy/ubuntu-22.04.4-desktop-amd64.iso)
+- [Ubuntu Server](https://releases.ubuntu.com/22.04.4/ubuntu-22.04.4-live-server-amd64.iso)
+- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/22.04.4/release/kubuntu-22.04.4-desktop-amd64.iso)
+- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/22.04.4/release/lubuntu-22.04.4-desktop-amd64.iso)
+- [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/22.04.4/release/xubuntu-22.04.4-desktop-amd64.iso)
+- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04.4/release/ubuntu-mate-22.04.4-desktop-amd64.iso)
+- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/22.04.4/release/ubuntu-budgie-22.04.4-desktop-amd64.iso)
 - [Ubuntu DDE](http://bit.ly/fosshost-20-04-1)
 - [Ubuntu Unity](https://sourceforge.net/projects/ubuntu-unity/files/22.04.1/ubuntu-unity-22.04.1.iso/download)
-- [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/22.04.3/release/ubuntustudio-22.04.3-dvd-amd64.iso)
+- [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/22.04.4/release/ubuntustudio-22.04.4-dvd-amd64.iso)
 
 ## Turunan Ubuntu
 
@@ -29,7 +29,7 @@
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
 - [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/36/pop-os_22.04_amd64_intel_36.iso)
 - [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/36/pop-os_22.04_amd64_nvidia_36.iso)
-- [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202312061230.iso)
+- [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202402220947.iso)
 - [Zorin OS Core](https://zorin.com/os/download/17/core)
 - [Zorin OS Lite](https://zorin.com/os/download/16/lite)
 
