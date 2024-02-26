@@ -15,6 +15,7 @@
 - [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04.4/release/ubuntu-mate-22.04.4-desktop-amd64.iso)
 - [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/22.04.4/release/ubuntu-budgie-22.04.4-desktop-amd64.iso)
 - [Ubuntu DDE](http://bit.ly/fosshost-20-04-1)
+- [Ubuntu Cinnamon](https://sourceforge.net/projects/ubuntu-cinnamon-remix/files/latest/download)
 - [Ubuntu Unity](https://sourceforge.net/projects/ubuntu-unity/files/22.04.1/ubuntu-unity-22.04.1.iso/download)
 - [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/22.04.4/release/ubuntustudio-22.04.4-dvd-amd64.iso)
 
@@ -27,8 +28,8 @@
 - [Linux Lite](https://pinguin.dinus.ac.id/iso/lite/isos/6.6/linux-lite-6.6-64bit.iso)
 - [LXLE (64 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download)
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
-- [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/36/pop-os_22.04_amd64_intel_36.iso)
-- [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/36/pop-os_22.04_amd64_nvidia_36.iso)
+- [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/38/pop-os_22.04_amd64_intel_38.iso)
+- [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/38/pop-os_22.04_amd64_nvidia_38.iso)
 - [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202402220947.iso)
 - [Zorin OS Core](https://zorin.com/os/download/17/core)
 - [Zorin OS Lite](https://zorin.com/os/download/16/lite)
