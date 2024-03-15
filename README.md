@@ -28,8 +28,8 @@
 - [Linux Lite](https://pinguin.dinus.ac.id/iso/lite/isos/6.6/linux-lite-6.6-64bit.iso)
 - [LXLE (64 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download)
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
-- [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/38/pop-os_22.04_amd64_intel_38.iso)
-- [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/38/pop-os_22.04_amd64_nvidia_38.iso)
+- [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/39/pop-os_22.04_amd64_intel_39.iso)
+- [Pop!_OS NVIDIA](https://iso.pop-os.org/22.04/amd64/nvidia/39/pop-os_22.04_amd64_nvidia_39.iso)
 - [TUXEDO OS](https://os.tuxedocomputers.com/TUXEDO-OS-2-202402220947.iso)
 - [Zorin OS Core](https://zorin.com/os/download/17/core)
 - [Zorin OS Lite](https://zorin.com/os/download/16/lite)
@@ -59,8 +59,8 @@
 
 ## Void
 
-- [Void Linux Base](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20230628-base.iso)
-- [Void Live Xfce](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20230628-xfce.iso)
+- [Void Linux Base](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20240314-base.iso)
+- [Void Live Xfce](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20240314-xfce.iso)
 
 ## Alpine
 
