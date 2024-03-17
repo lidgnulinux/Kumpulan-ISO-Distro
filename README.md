@@ -76,5 +76,5 @@
 
 ## Endeavouros
 
-- [Endeavouros](https://mirror.jingk.ai/endeavouros/iso/Endeavouros-Galileo-11-2023.iso)
-- [Alternatif](https://mirror.freedif.org/EndeavourOS/iso/Endeavouros-Galileo-11-2023.iso)
+- [Endeavouros](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Galileo-Neo-2024.01.25.iso)
+- [Alternatif](https://mirror.jingk.ai/endeavouros/iso/EndeavourOS_Galileo-Neo-2024.01.25.iso)
