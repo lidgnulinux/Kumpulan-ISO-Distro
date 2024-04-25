@@ -7,17 +7,18 @@
 
 ## Ubuntu dan Flavour-nya
 
-- [Ubuntu](https://releases.ubuntu.com/jammy/ubuntu-22.04.4-desktop-amd64.iso)
-- [Ubuntu Server](https://releases.ubuntu.com/22.04.4/ubuntu-22.04.4-live-server-amd64.iso)
-- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/22.04.4/release/kubuntu-22.04.4-desktop-amd64.iso)
-- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/22.04.4/release/lubuntu-22.04.4-desktop-amd64.iso)
-- [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/22.04.4/release/xubuntu-22.04.4-desktop-amd64.iso)
-- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04.4/release/ubuntu-mate-22.04.4-desktop-amd64.iso)
-- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/22.04.4/release/ubuntu-budgie-22.04.4-desktop-amd64.iso)
+- [Ubuntu](https://releases.ubuntu.com/24.04/ubuntu-24.04-desktop-amd64.iso)
+- [Ubuntu Server](https://releases.ubuntu.com/24.04/ubuntu-24.04-live-server-amd64.iso)
+- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/24.04/release/kubuntu-24.04-desktop-amd64.iso)
+- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/24.04/release/lubuntu-24.04-desktop-amd64.iso)
+- [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/24.04/release/xubuntu-24.04-desktop-amd64.iso)
+- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/24.04/release/ubuntu-mate-24.04-desktop-amd64.iso)
+- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/24.04/release/ubuntu-budgie-24.04-desktop-amd64.iso)
 - [Ubuntu DDE](http://bit.ly/fosshost-20-04-1)
-- [Ubuntu Cinnamon](https://sourceforge.net/projects/ubuntu-cinnamon-remix/files/latest/download)
-- [Ubuntu Unity](https://sourceforge.net/projects/ubuntu-unity/files/22.04.1/ubuntu-unity-22.04.1.iso/download)
-- [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/22.04.4/release/ubuntustudio-22.04.4-dvd-amd64.iso)
+- [Ubuntu Cinnamon](https://cdimage.ubuntu.com/ubuntucinnamon/releases/24.04/release/ubuntucinnamon-24.04-desktop-amd64.iso)
+- [Ubuntu Unity](https://cdimage.ubuntu.com/ubuntu-unity/releases/24.04/release/ubuntu-unity-24.04-desktop-amd64.iso)
+- [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/24.04/release/ubuntustudio-24.04-dvd-amd64.iso)
+- [Edubuntu](https://cdimage.ubuntu.com/edubuntu/releases/24.04/release/edubuntu-24.04-desktop-amd64.iso)
 
 ## Turunan Ubuntu
 
@@ -77,4 +78,4 @@
 ## Endeavouros
 
 - [Endeavouros](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Gemini-2024.04.20.iso)
-- [Alternatif](https://mirror.jingk.ai/endeavouros/iso/EndeavourOS_Galileo-Neo-2024.01.25.iso)
+- [Alternatif](https://mirrors.gigenet.com/endeavouros/iso/EndeavourOS_Gemini-2024.04.20.iso)
