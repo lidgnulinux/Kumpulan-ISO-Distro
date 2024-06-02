@@ -26,7 +26,7 @@
 - [Linux Mint Cinnamon](https://mirror.gi.co.id/linuxmint-iso/stable/21.3/linuxmint-21.3-cinnamon-64bit.iso)
 - [Linux Mint XFCE](https://mirror.gi.co.id/linuxmint-iso/stable/21.3/linuxmint-21.3-xfce-64bit.iso)
 - [Linux Mint Mate](https://mirror.gi.co.id/linuxmint-iso/stable/21.3/linuxmint-21.3-mate-64bit.iso)
-- [Linux Lite](https://pinguin.dinus.ac.id/iso/lite/isos/6.6/linux-lite-6.6-64bit.iso)
+- [Linux Lite](https://pinguin.dinus.ac.id/iso/lite/isos/7.0/linux-lite-7.0-64bit.iso)
 - [LXLE (64 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download)
 - [LXLE (32 bit)](https://sourceforge.net/projects/lxle/files/Final/OS/18.04.3-32/lxle-18043-32.iso/download)
 - [Pop!_OS](https://iso.pop-os.org/22.04/amd64/intel/39/pop-os_22.04_amd64_intel_39.iso)
