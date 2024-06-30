@@ -2,8 +2,8 @@
 
 ## Debian
 
-- [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.5.0-amd64-DVD-1.iso)
-- [Debian netinstall](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.5.0-amd64-netinst.iso)
+- [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.6.0-amd64-DVD-1.iso)
+- [Debian netinstall](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.6.0-amd64-netinst.iso)
 
 ## Ubuntu dan Flavour-nya
 
