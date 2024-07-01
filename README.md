@@ -58,23 +58,23 @@
 - [Fedora Sway Atomic](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Sericea/x86_64/iso/Fedora-Sericea-ostree-x86_64-40-1.14.iso)
 - [Fedora Budgie Atomic](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Onyx/x86_64/iso/Fedora-Onyx-ostree-x86_64-40-1.14.iso)
 
-## Void
+## Void Linux
 
 - [Void Linux Base](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20240314-base.iso)
 - [Void Live Xfce](https://repo-default.voidlinux.org/live/current/void-live-x86_64-20240314-xfce.iso)
 
-## Alpine
+## Alpine Linux
 
 - [Alpine Linux 3.20](https://dl-cdn.alpinelinux.org/alpine/v3.20/releases/x86_64/alpine-standard-3.20.0-x86_64.iso)
 
-## Opensuse
+## OpenSuse
 
-- [Opensuse Leap 15.4](https://download.opensuse.org/distribution/leap/15.4/iso/openSUSE-Leap-15.4-DVD-x86_64-Media.iso)
-- [Opensuse Leap 15.5](https://download.opensuse.org/distribution/leap/15.5/iso/openSUSE-Leap-15.5-DVD-x86_64-Media.iso)
-- [Opensuse Tumbleweed](https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso)
+- [OpenSuse Leap 15.4](https://download.opensuse.org/distribution/leap/15.4/iso/openSUSE-Leap-15.4-DVD-x86_64-Media.iso)
+- [OpenSuse Leap 15.5](https://download.opensuse.org/distribution/leap/15.5/iso/openSUSE-Leap-15.5-DVD-x86_64-Media.iso)
+- [OpenSuse Tumbleweed](https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso)
 - [openSUSE MicroOS](https://download.opensuse.org/tumbleweed/iso/openSUSE-MicroOS-DVD-x86_64-Current.iso)
 
-## Endeavouros
+## EndeavourOS
 
-- [Endeavouros](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Gemini-2024.04.20.iso)
-- [Alternatif](https://mirrors.gigenet.com/endeavouros/iso/EndeavourOS_Gemini-2024.04.20.iso)
+- [EndeavourOS](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Endeavour-2024.06.25.iso)
+- [Alternatif](https://mirror.jingk.ai/endeavouros/iso/EndeavourOS_Endeavour-2024.06.25.iso)
