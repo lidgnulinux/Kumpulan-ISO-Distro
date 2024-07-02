@@ -67,11 +67,11 @@
 
 - [Alpine Linux 3.20](https://dl-cdn.alpinelinux.org/alpine/v3.20/releases/x86_64/alpine-standard-3.20.0-x86_64.iso)
 
-## OpenSuse
+## openSUSE
 
-- [OpenSuse Leap 15.4](https://download.opensuse.org/distribution/leap/15.4/iso/openSUSE-Leap-15.4-DVD-x86_64-Media.iso)
-- [OpenSuse Leap 15.5](https://download.opensuse.org/distribution/leap/15.5/iso/openSUSE-Leap-15.5-DVD-x86_64-Media.iso)
-- [OpenSuse Tumbleweed](https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso)
+- [openSUSE Leap 15.5](https://download.opensuse.org/distribution/leap/15.5/iso/openSUSE-Leap-15.5-DVD-x86_64-Media.iso)
+- [openSUSE Leap 15.6](https://download.opensuse.org/distribution/leap/15.6/iso/openSUSE-Leap-15.6-DVD-x86_64-Media.iso)
+- [openSUSE Tumbleweed](https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso)
 - [openSUSE MicroOS](https://download.opensuse.org/tumbleweed/iso/openSUSE-MicroOS-DVD-x86_64-Current.iso)
 
 ## EndeavourOS
