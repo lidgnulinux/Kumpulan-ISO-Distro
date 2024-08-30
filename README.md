@@ -7,18 +7,18 @@
 
 ## Ubuntu dan Flavour-nya
 
-- [Ubuntu](https://releases.ubuntu.com/24.04/ubuntu-24.04-desktop-amd64.iso)
-- [Ubuntu Server](https://releases.ubuntu.com/24.04/ubuntu-24.04-live-server-amd64.iso)
-- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/24.04/release/kubuntu-24.04-desktop-amd64.iso)
-- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/24.04/release/lubuntu-24.04-desktop-amd64.iso)
-- [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/24.04/release/xubuntu-24.04-desktop-amd64.iso)
-- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/24.04/release/ubuntu-mate-24.04-desktop-amd64.iso)
-- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/24.04/release/ubuntu-budgie-24.04-desktop-amd64.iso)
+- [Ubuntu](https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso)
+- [Ubuntu Server](https://releases.ubuntu.com/noble/ubuntu-24.04.1-live-server-amd64.iso)
+- [Kubuntu](https://cdimage.ubuntu.com/kubuntu/releases/24.04.1/release/kubuntu-24.04.1-desktop-amd64.iso)
+- [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/24.04.1/release/lubuntu-24.04.1-desktop-amd64.iso)
+- [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/24.04.1/release/xubuntu-24.04.1-desktop-amd64.iso)
+- [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/24.04.1/release/ubuntu-mate-24.04.1-desktop-amd64.iso)
+- [Ubuntu Budgie](https://cdimage.ubuntu.com/ubuntu-budgie/releases/24.04.1/release/ubuntu-budgie-24.04.1-desktop-amd64.iso)
 - [Ubuntu DDE](http://bit.ly/fosshost-20-04-1)
-- [Ubuntu Cinnamon](https://cdimage.ubuntu.com/ubuntucinnamon/releases/24.04/release/ubuntucinnamon-24.04-desktop-amd64.iso)
-- [Ubuntu Unity](https://cdimage.ubuntu.com/ubuntu-unity/releases/24.04/release/ubuntu-unity-24.04-desktop-amd64.iso)
-- [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/24.04/release/ubuntustudio-24.04-dvd-amd64.iso)
-- [Edubuntu](https://cdimage.ubuntu.com/edubuntu/releases/24.04/release/edubuntu-24.04-desktop-amd64.iso)
+- [Ubuntu Cinnamon](https://cdimage.ubuntu.com/ubuntucinnamon/releases/24.04.1/release/ubuntucinnamon-24.04.1-desktop-amd64.iso)
+- [Ubuntu Unity](https://cdimage.ubuntu.com/ubuntu-unity/releases/24.04.1/release/ubuntu-unity-24.04.1-desktop-amd64.iso)
+- [Ubuntu Studio](https://cdimage.ubuntu.com/ubuntustudio/releases/24.04.1/release/ubuntustudio-24.04.1-dvd-amd64.iso)
+- [Edubuntu](https://cdimage.ubuntu.com/edubuntu/releases/24.04.1/release/edubuntu-24.04.1-desktop-amd64.iso)
 
 ## Turunan Ubuntu
 
