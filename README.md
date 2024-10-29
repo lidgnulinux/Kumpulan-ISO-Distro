@@ -47,16 +47,16 @@
 
 ## Fedora
 
-- [Fedora 39 Workstation](https://download.fedoraproject.org/pub/fedora/linux/releases/39/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-39-1.5.iso)
-- [Fedora 39 server standard](https://download.fedoraproject.org/pub/fedora/linux/releases/39/Server/x86_64/iso/Fedora-Server-dvd-x86_64-39-1.5.iso)
-- [Fedora 39 server netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/39/Server/x86_64/iso/Fedora-Server-netinst-x86_64-39-1.5.iso)
 - [Fedora 40 Workstation](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40-1.14.iso)
 - [Fedora 40 Server Standard](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Server/x86_64/iso/Fedora-Server-dvd-x86_64-40-1.14.iso)
 - [Fedora 40 Server netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Server/x86_64/iso/Fedora-Server-netinst-x86_64-40-1.14.iso)
-- [Fedora Silverblue](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-40-1.14.iso)
-- [Fedora Kinoite](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Kinoite/x86_64/iso/Fedora-Kinoite-ostree-x86_64-40-1.14.iso)
-- [Fedora Sway Atomic](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Sericea/x86_64/iso/Fedora-Sericea-ostree-x86_64-40-1.14.iso)
-- [Fedora Budgie Atomic](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Onyx/x86_64/iso/Fedora-Onyx-ostree-x86_64-40-1.14.iso)
+- [Fedora 41 Workstation](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41-1.4.iso)
+- [Fedora 41 Server Standard](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Server/x86_64/iso/Fedora-Server-dvd-x86_64-41-1.4.iso)
+- [[Fedora 41 Server netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Server/x86_64/iso/Fedora-Server-netinst-x86_64-41-1.4.iso)
+- [Fedora Silverblue](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-41-1.4.iso)
+- [Fedora Kinoite](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Kinoite/x86_64/iso/Fedora-Kinoite-ostree-x86_64-41-1.4.iso)
+- [Fedora Sway Atomic](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Sericea/x86_64/iso/Fedora-Sericea-ostree-x86_64-41-1.4.iso)
+- [Fedora Budgie Atomic](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Onyx/x86_64/iso/Fedora-Onyx-ostree-x86_64-41-1.4.iso)
 
 ## Void Linux
 
