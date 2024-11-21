@@ -76,5 +76,5 @@
 
 ## EndeavourOS
 
-- [EndeavourOS](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Endeavour-2024.06.25.iso)
-- [Alternatif](https://mirror.jingk.ai/endeavouros/iso/EndeavourOS_Endeavour-2024.06.25.iso)
+- [EndeavourOS](https://mirror.freedif.org/EndeavourOS/iso/EndeavourOS_Endeavour_neo-2024.09.22.iso)
+- [Alternatif](https://mirror.jingk.ai/endeavouros/iso/EndeavourOS_Endeavour_neo-2024.09.22.iso)
